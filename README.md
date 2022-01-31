@@ -50,6 +50,15 @@ Help women suffering from gynecological diseases (fibroids, endometriosis, etc) 
   - Research universities
   - Other healthcare service providers
 
+## Our Team
+- **Kevin Chen**: Physician
+- **Andrew Kuttichira**: Computer Science
+- **Maritza Minchala**: Public Health
+- **Michelle Ng**: UI/UX Designer
+- **Javier Poveda**: Historian of Science
+
+
+
 
 ## References
 - [Endometriosis](https://www.mayoclinic.org/diseases-conditions/endometriosis/symptoms-causes/syc-20354656)
