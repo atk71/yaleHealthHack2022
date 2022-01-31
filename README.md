@@ -57,10 +57,10 @@ Help women suffering from gynecological diseases (fibroids, endometriosis, etc) 
 - **Michelle Ng**: UI/UX Designer
 - **Javier Poveda**: Historian of Science
 
-
-
+## [Our Final Presentation for the 2022 Yale CBIT Hackathon](https://youtu.be/FTGTTheBYFo)
 
 ## References
+- [Yale CBIT 2022](http://yalehackhealth.org)
 - [Endometriosis](https://www.mayoclinic.org/diseases-conditions/endometriosis/symptoms-causes/syc-20354656)
 - [Uterine Fibroids](https://www.mayoclinic.org/diseases-conditions/uterine-fibroids/symptoms-causes/syc-20354288)
 
