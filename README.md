@@ -38,6 +38,19 @@ Help women suffering from gynecological diseases (fibroids, endometriosis, etc) 
 - **Virtual consultations:** Consultation for people in rural area to meet specialists virtually outside of their immediate geographic area
 - **Diet Suggestions:** For endometriosis specially because it’s an inflammatory disease, research has shown that by incorporating anti-inflammatory food into diet can relieve symptom. Using confirmed research and also crowdsourced data of what works for others, patients can be more educated on the food choices
 
+## Roadmap / Future Goals
+- **A modular software architecture**
+  - Common platform and back-end
+  - Support for other complex diseases like Crohn’s and Fibromyalgia
+- **Marketing on the grassroots**
+  - Flyers, posters, advertising in neighborhoods at most risk
+  - Leveraging social media to increase users among digitally literate populations
+- **Partnerships with other healthcare organizations**
+  - Diagnostic companies
+  - Research universities
+  - Other healthcare service providers
+
+
 ## References
 - [Endometriosis](https://www.mayoclinic.org/diseases-conditions/endometriosis/symptoms-causes/syc-20354656)
 - [Uterine Fibroids](https://www.mayoclinic.org/diseases-conditions/uterine-fibroids/symptoms-causes/syc-20354288)
